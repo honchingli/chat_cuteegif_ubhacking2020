@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954734163514",
+    "firebase_url": "https://chat-projectfor-ubhacking2020.firebaseio.com",
+    "project_id": "chat-projectfor-ubhacking2020",
+    "storage_bucket": "chat-projectfor-ubhacking2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954734163514:android:d00c4b09b65ec78a4de703",
+        "android_client_info": {
+          "package_name": "com.hon.chat_cuteegif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954734163514-7vthtbr772k9tm7ver4dug4b8i9nbcv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2MH4jtXCkh2GVhG8mjR-Jk747EvY-mwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954734163514-7vthtbr772k9tm7ver4dug4b8i9nbcv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
