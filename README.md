@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+All implements in lib folder.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
