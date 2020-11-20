@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T02:10:35.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="414pHze9_OZbuCnO_OI7" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T02:11:32.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="b4LcqACPj-vML-1z5Kt2" version="13.10.0" type="github">
   <diagram id="5jlkh1vB7oCjUuGCAA8b" name="Page-1">
     <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,23 +63,20 @@
         <mxCell id="0KiW9_K8kbpAwRVkYxgG-17" value="Deference 208 get void* buffer.&amp;nbsp; not only check the address of ESP + 8, but also need check address of the buffer. Who knows where the ESP+8 pointing to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="270" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0KiW9_K8kbpAwRVkYxgG-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="380" width="190" height="280" as="geometry" />
+        <mxCell id="0KiW9_K8kbpAwRVkYxgG-19" value="Virtual memory (has n pages)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="190" height="280" as="geometry" />
         </mxCell>
         <mxCell id="0KiW9_K8kbpAwRVkYxgG-20" value="Page1&lt;br&gt;&amp;nbsp;(0x0000 - 0x1000)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="390" width="115" height="30" as="geometry" />
+          <mxGeometry x="85" y="420" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KiW9_K8kbpAwRVkYxgG-22" value="Page2&lt;br&gt;(0x1000 - 0x2000)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="430" width="115" height="30" as="geometry" />
+          <mxGeometry x="85" y="460" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KiW9_K8kbpAwRVkYxgG-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="470" width="115" height="30" as="geometry" />
+          <mxGeometry x="85" y="500" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KiW9_K8kbpAwRVkYxgG-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="600" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0KiW9_K8kbpAwRVkYxgG-25" value="Virtual memory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="510" width="110" height="20" as="geometry" />
+          <mxGeometry x="85" y="630" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
