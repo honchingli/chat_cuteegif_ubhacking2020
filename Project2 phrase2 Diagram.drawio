@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T01:55:19.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="XOWhK8tQORM6uJtVF_aG" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T01:56:00.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="DJ243z8gM_JjPS7l9wcm" version="13.10.0" type="github">
   <diagram id="5jlkh1vB7oCjUuGCAA8b" name="Page-1">
     <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,8 +60,8 @@
         <mxCell id="0KiW9_K8kbpAwRVkYxgG-14" value="0x010" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="190" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0KiW9_K8kbpAwRVkYxgG-17" value="Deference 208 get void* buffer.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="230" width="150" height="40" as="geometry" />
+        <mxCell id="0KiW9_K8kbpAwRVkYxgG-17" value="Deference 208 get void* buffer.&amp;nbsp; not only check the address of ESP + 8, but also need check address of the buffer. Who knows where the ESP+8 pointing to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
