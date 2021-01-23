@@ -4,6 +4,8 @@ A new Flutter application.
 
 All implements in lib folder.
 
+More info: https://devpost.com/software/cuteegifchat
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
